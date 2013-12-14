@@ -38,7 +38,7 @@
   "dependencies": {
     "lodash": "~2.2.0",
     "underscore.string": "~2.3.0",
-    "lingo": "~0.0.5",
+    "lingo": "git://github.com/lucidmoon/lingo.git",
     "validator": "~1.5.0",
     "moment": "~2.4.0",
     "commander": "~2.0.0",
